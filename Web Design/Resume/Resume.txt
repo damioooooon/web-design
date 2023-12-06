@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title> Damien's Resume </title>
+	</head>
+	
+	<body>
+	<h1 style = "color: red; text-align: center;"> Centennial High School </h1>
+	
+	
+	</body>
+</html>

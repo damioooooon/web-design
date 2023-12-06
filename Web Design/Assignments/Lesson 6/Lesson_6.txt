@@ -1,0 +1,21 @@
+<!DOCTYPE<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body style = "background-color: #E8DAEF">
+		<h1 style = "color: blue; text-shadow: 3px 2px black; text-align: center;";> &diams; Google Apps &diams; </h1>
+		<p style = "text-align: center; font-size: 16px;"> Google originally started as a search engine website. It now has grown intoone of the most innovative companies in history! </p>
+		<hr style = "background-color: red; height: 2px;">
+		<h2 style = "color: green;"> &hearts; My Favorite Google Apps &hearts; </h2>
+		<p> Google has been adding apps to their website <b> constantly</b>. Listed below are some of my favorites: </p>
+		<p><b>Google Drive:</b><i> is a personal cloud storage service that lets users store and synchronize digital content across computers.</i></p>
+		<p><b>Google Slides:</b><i> it lets you collaborate with co-workers creating slides in real time.</i></p>
+		<p><b>Google Sites:</b><i> is a structured wiki- and Web page-creation tool that anyone create simple web sites.</i></p>
+		<hr style = "background-color: red; height: 2px;">
+		<p> Thanks for reading, see you soon!</p>
+		<p> Sincerely,</p>
+		<br>
+		<br>
+		<p><i>Damien Weakly</i></p>
+	</body>
+</html>

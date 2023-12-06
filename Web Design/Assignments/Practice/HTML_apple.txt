@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	
+	<head>
+		
+	</head>
+	
+	<body>
+		<h1> Apple Inc.</h1>
+		<p> Apple has been around since 1976 and since then they have been changing the technology world. </p>
+		<h2> Why I Love Apple.</h2>
+		<ol>
+		<li><p> They are innovative with their technology. </p></li>
+		<li><p> Their products are user friendly. </p></li>
+		<li><p> Their products are high quality. </p></li>
+		<li><p> They have great customer service. </p></li>
+		<br>
+		</ol>
+		<p> I always look forward to the new release of their products, and can't wait to see whats next! </p>
+	</body>
+</html>

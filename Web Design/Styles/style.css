@@ -1,0 +1,42 @@
+
+			h1{ 
+				color: red;
+				text-align: center;
+				
+			} 
+			h3{ 
+				font: arial;
+				color: darkblue;
+				
+			} 
+			li{ 
+				font-family: fantasy;
+				color: purple;
+				
+			} 
+			p{ 
+				border-color: black;
+				text-align: left;
+				background-color: #d69678;
+				font-family: Arial;
+				font-size: 11px;
+			} 
+			pre{ 
+				font-family: Arial;
+				font-size: 11px;
+			} 
+			hr{ 
+				height: 4px;
+				width: 60%;
+				background-color: darkred;
+				color: black;
+				align: center;
+				noshadow;
+			} 
+			img{
+			height: 75px;
+			width:250px;
+			float: left;
+			padding: 2px;
+			margin: 0px;
+			}

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Company Sales Table </title>
+		<style>
+	
+		</style>
+	</head>
+	
+	<body>
+		<center>
+		<h1> Company Sales </h1>
+		<table border = "0" style = "margin-left: auto; margin-right: auto; border-collapse: collapse;">
+			<tr style = "background-color: darkblue; color: white;"> <th> Country </th> <th> Province </th> <th> City </th> <th> Sum of Line Total </th> </tr>
+			<tr><td  style = "background-color: lightblue;" colspan = "3" width = "160px" align = "center"> <b> Canada </b></td> 
+			<td width = "160px" align = "center"> $38,062 </td>
+			</tr><tr>
+			<td  style = "background-color: lightblue;" width = "160px" rowspan = "11" align = "center"> <b> USA </b> </td> 
+			<td align = "center" width = "160px"> California </td>
+			<td align = "center" width = "160px"> Petaluma </td>
+			<td align = "center"> $66 </td>
+			</tr><tr>
+			<td align = "center"><b> Indiana </b></td>
+			<td align = "center"> Fort Wayne </td>
+			<td align = "center"> $16 </td>
+			</tr><tr>
+			 
+			<td align = "center"><b> Louisiana </b></td>
+			<td align = "center"> Slidell </td>
+			<td align = "center"> $30 </td>
+			</tr><tr> 
+			<td align = "center"><b> Maine </b></td>
+			<td align = "center"> Leeds </td>
+			<td align = "center"> $75 </td>
+			</tr><tr>
+			<td align = "center" colspan = "2"><b> Michigan </b></td>
+			<td align = "center"> $86 </td>
+			</tr><tr>
+			 
+			<td align = "center"><b> Minnesota </b></td>
+			<td align = "center"> Minneapolis </td>
+			<td align = "center"> $35 </td>
+			</tr><tr>
+			 
+			<td align = "center"><b> Ohio </b></td>
+			<td align = "center"> Hamilton </td>
+			<td align = "center"> $78 </td>
+			</tr><tr>
+			 
+			<td align = "center">   </td>
+			<td align = "center"> Mentor </td>
+			<td align = "center"> $48 </td>
+			</tr><tr>
+			 
+			<td align = "center"><b> Oregon </b></td>
+			<td align = "center"> Portland </td>
+			<td align = "center"> $109 </td>
+			</tr><tr>
+			<td align = "center"><b> Tennessee </b></td>
+			<td align = "center"> Cleveland </td>
+			<td align = "center"> $40 </td>
+			</tr><tr>
+			<td align = "center"><b> Texas </b></td>
+			<td align = "center"> Houston </td>
+			<td align = "center"> $59 </td>
+			</tr><tr>
+			<td align = "center" colspan ="3" style = "border-top-style: solid; border-bottom-style: solid; border-bottom-width: thick; border-color: black;"> <b> Grand Total </b> </td> 
+			<td align = "center" style = "border-top-style: solid; border-bottom-style: solid; border-bottom-width: thick; border-color: black;"> $38,705 </td>
+			</tr>
+		</table>
+		</center>
+	</body>
+</html>
